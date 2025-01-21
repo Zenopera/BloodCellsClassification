@@ -58,6 +58,4 @@ The report provides a detailed overview of the following project stages:
 - **Zeno Peracchione**
 - **Lorenzo Galatea**
 
-## License
 
-This project is distributed under the MIT License. See the LICENSE file for more details.
